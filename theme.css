@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box; }
 
+h1 {
+  color: #00A3AD;
+  size: 34px;
+}
+
 body {
   padding: 0;
   margin: 0;
