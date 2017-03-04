@@ -1,10 +1,14 @@
 
 h1 {
-  font-size: 250px;
+  font-size: 10px;
   color: #0000FF;
 }
 
 p {
   color:#0000FF;
+}
+
+img {
+  margin: 50px;
 }
 
