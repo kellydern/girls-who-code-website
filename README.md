@@ -1,33 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my Girls Who Code Website
 
-You can use the [editor on GitHub](https://github.com/kellydern/girls-who-code-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a demo website for teaching purposes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-<a href="https://www.google.com/search?q=puppy+photos&tbm=isch&imgil=WRw9Hwzh5IWNZM%253A%253BG-LgqdMgurST3M%253Bhttp%25253A%25252F%25252Fdogtime.com%25252Fpuppies%25252F255-puppies&source=iu&pf=m&fir=WRw9Hwzh5IWNZM%253A%252CG-LgqdMgurST3M%252C_&usg=__QrPGkAZ4x6CG5TCMy_UNbzNz3hc%3D&biw=1440&bih=776&ved=0ahUKEwi2z4747KvSAhXnwlQKHXhjDKsQyjcINQ&ei=YMmxWLafGueF0wL4xrHYCg">
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
