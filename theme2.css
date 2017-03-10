@@ -14,3 +14,7 @@ img {
   margin: 50px;
 }
 
+.hero {
+  background: url("http://wallpoper.com/images/00/34/39/15/circuit-pcb_00343915.jpg") no-repeat center center;
+  background-size: cover;
+}
