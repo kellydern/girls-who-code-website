@@ -17,4 +17,5 @@ img {
 .hero {
   background: url("https://static.pexels.com/photos/57832/pexels-photo-57832.jpeg") no-repeat center center;
   background-size: cover;
+  padding: 100px 0px;
 }
