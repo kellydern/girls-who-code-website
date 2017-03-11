@@ -10,10 +10,6 @@ p {
   font-size: 20px;
 }
 
-img {
-  margin: 50px;
-}
-
 .hero {
   background: url("https://static.pexels.com/photos/57832/pexels-photo-57832.jpeg") no-repeat center;
   background-size: cover;
